@@ -1,0 +1,3 @@
+[submodule "transformers_SoftNER"]
+	path = transformers_SoftNER
+	url = https://github.com/jeniyat/hugginface_softner.git
